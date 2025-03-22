@@ -86,6 +86,7 @@ php artisan db:seed --class=BookSeeder
 5-Compile Frontend Assets
 
 npm run dev
+
 please leave it running.
 
 6- start the server in different terminal 
