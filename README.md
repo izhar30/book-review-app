@@ -60,6 +60,7 @@ In PackageManifest.php line 178:
 run the following command
 
   mkdir bootstrap\cache
+  
 then
 
   php artisan key:generate
@@ -77,8 +78,9 @@ php artisan db:seed --class=BookSeeder
 5-Compile Frontend Assets
 
 npm run dev
+please leave it running.
 
-6- start the server 
+6- start the server in different terminal 
 
 php artisan serve
 
